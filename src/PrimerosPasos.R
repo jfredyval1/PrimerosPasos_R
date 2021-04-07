@@ -127,5 +127,5 @@ leaflet() %>% # Entorno general de mapa dinámico
 print(table(datos_xy$TIPO_EVENTO))
 
 # Exportar datos tabulares a un formato legible por excel
-
+dir.create("Resultados")
 write_csv2(FrecA, file = rutas$output) # guarda un archivo .csv legible en excel
