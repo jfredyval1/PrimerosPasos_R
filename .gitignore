@@ -1,0 +1,8 @@
+*.Rmd
+*.html
+.Rhistory
+Ejemplo1.csv
+Imágenes/
+ToolBox_files/
+.fuse_hidden000003ee00000001
+.fuse_hidden0000042b000049cb
